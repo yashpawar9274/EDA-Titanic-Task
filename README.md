@@ -32,6 +32,8 @@ Perform Exploratory Data Analysis (EDA) on the Titanic dataset using Python to e
 - Features: PassengerId, Survived, Pclass, Name, Sex, Age, SibSp, Parch, Ticket, Fare, Cabin, Embarked
 
 ## 📁 Repository Structure
+
+
 EDA-Titanic-Task/
 ├── dataset/
 │ └── titanic.csv
@@ -42,3 +44,4 @@ EDA-Titanic-Task/
 ├── main.py
 ├── README.md
 └── requirements.txt#
+
